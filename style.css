@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+  font-family: -apple-system,tonnybanglaomj,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+}
+body{
+  background: #efefef;
+  color: #000;
+}
+h1,h2{font-family: -apple-system,tonnybanglaomj,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}
