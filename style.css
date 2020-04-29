@@ -8,4 +8,6 @@ body{
   background: #efefef;
   color: #000;
 }
-h1,h2{font-family: -apple-system,tonnybanglaomj,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}
+h1,h2{
+  color: #00f;
+}
